@@ -1,0 +1,15 @@
+# Node
+node_modules/
+.env
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+.idea/
+.vscode/
+
+# Otros posibles
+coverage/
+dist/
