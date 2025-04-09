@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "seed": "seed/seed.js"
   },
   "keywords": [],
   "author": "",
